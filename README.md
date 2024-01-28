@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theruzmetoff
+- 👋 Hi, I’m Jahongir
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java & Kotlin
 - 💞️ I’m looking to collaborate on Google
